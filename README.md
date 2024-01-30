@@ -14,7 +14,7 @@ Before you begin, make sure you have the following:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/leo-ars/cloudflare-terraform-example.git
     ```
 
 2. Navigate to the directory containing the Terraform configuration files:
