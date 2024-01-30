@@ -1,4 +1,3 @@
-# cloudflare-terraform-example
 # Deploying Cloudflare Resources with Terraform
 
 This guide demonstrates how to deploy Cloudflare resources using Terraform. Terraform is an infrastructure as code tool that allows you to manage and provision cloud infrastructure in a declarative way. Cloudflare is a popular cloud-based platform that provides content delivery network (CDN), DNS, and DDoS protection services.
