@@ -20,7 +20,7 @@ Before you begin, make sure you have the following:
 2. Navigate to the directory containing the Terraform configuration files:
 
     ```bash
-    cd your-repo
+    cd cloudflare-terraform-example
     ```
 
 3. Initialize Terraform:
